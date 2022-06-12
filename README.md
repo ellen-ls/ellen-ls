@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on pharmacy but I'm looking for a frist job of Software development Front-End.
 - 🌱 I’m currently learning React JS.
-- 💬 Ask me about everthing.
+- 💬 Ask me about everything.
 - ⚡ Fun fact: I love eat:heartbeat:, AnimalsLove:purple_heart: , For the Horde!
 
 <div align="center">
