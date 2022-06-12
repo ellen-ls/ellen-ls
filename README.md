@@ -1,12 +1,11 @@
 ### Hi there, my name is Ellen, welcome to my development place :crescent_moon::star:
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on pharmacy but I'm looking for a frist job of Software development Front-End.
 - 🌱 I’m currently learning React JS.
 - 💬 Ask me about everything.
-- ⚡ Fun fact: I love eat:heartbeat:, AnimalsLove:purple_heart: , For the Horde!
+- ⚡ Fun fact: I love eat:heartbeat:, AnimalsLove:purple_heart: ,I fight for the Horde! <img align="center" height="30" width="20" src="https://user-images.githubusercontent.com/97070293/173248704-e3eaf44c-dde1-4e2b-b627-97f2b4122c4f.png">
+
+
 
 <div align="center">
   <a href="https://github.com/ellen-ls">
