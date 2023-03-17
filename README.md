@@ -1,7 +1,7 @@
 ### Hi there, my name is Ellen, welcome to my development place :crescent_moon::star:
 
-- 🔭 I’m currently working on pharmacy but I'm looking for a frist job of Software development Front-End.
-- 🌱 I’m currently learning React JS.
+- 🔭 I’m currently working on pharmacy but I'm looking for a frist job of Software development FullStack.
+- 🌱 I’m currently learning PHP.
 - 💬 Ask me about everything.
 - ⚡ Fun fact: I love eat:heartbeat:, AnimalsLove:purple_heart: ,I fight for the Horde! <img align="center" height="30" width="20" src="https://user-images.githubusercontent.com/97070293/173248704-e3eaf44c-dde1-4e2b-b627-97f2b4122c4f.png">
 
@@ -17,13 +17,17 @@
   ### **Technologies**
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="ellen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ellen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ellen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ellen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ellen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ellen-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="ellen-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="ellen-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="ellen-Redux" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="ellen-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ellen-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ellen-Js" height=50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ellen-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ellen-TypeScript" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="ellen-MySQL" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="ellen-Bootstrap" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="ellen-PHP" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">  
+   
   <img align="right" alt="ellen" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/9330f651ae1b4e586074ee62ea5a3f66.gif">
   
 </div>
