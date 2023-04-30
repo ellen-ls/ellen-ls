@@ -1,9 +1,10 @@
-### Hi there, my name is Ellen, welcome to my development place :crescent_moon::star:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=900&color=4E2276&background=0D081AA4&center=true&vCenter=true&multiline=true&width=1300&height=120&lines=Hi%2C+I'm+Ellen;FullStack+Developer)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on pharmacy but I'm looking for a frist job of Software development FullStack.
-- 🌱 I’m currently learning PHP.
+
+- 🔭 I'm looking for a frist job of Software development FullStack.
+- 🌱 I’m currently learning Angular.
 - 💬 Ask me about everything.
-- ⚡ Fun fact: I love eat:heartbeat:, AnimalsLove:purple_heart: ,I fight for the Horde! <img align="center" height="30" width="20" src="https://user-images.githubusercontent.com/97070293/173248704-e3eaf44c-dde1-4e2b-b627-97f2b4122c4f.png">
+
 
 
 
