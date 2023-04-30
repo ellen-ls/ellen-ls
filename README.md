@@ -2,7 +2,7 @@
 
 <img align="right" alt="ellen" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/9330f651ae1b4e586074ee62ea5a3f66.gif">
 
-##  🔭 I'm looking for my frist job of Software development FullStack.
+##  🔭 I'm looking for my frist job in Software Development FullStack.
 <br>
 
 ## :scroll: I'm learning:
