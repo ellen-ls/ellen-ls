@@ -1,9 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=900&color=4E2276&background=0D081AA4&center=true&vCenter=true&multiline=true&width=1300&height=120&lines=Hi%2C+I'm+Ellen;FullStack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=900&color=CF8BE9FF&background=0D081AA4&center=true&vCenter=true&multiline=true&width=1300&height=120&lines=Hi%2C+I'm+Ellen;FullStack+Developer)](https://git.io/typing-svg)
 
+<img align="right" alt="ellen" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/9330f651ae1b4e586074ee62ea5a3f66.gif">
 
-- 🔭 I'm looking for a frist job of Software development FullStack.
-- 🌱 I’m currently learning Angular.
-- 💬 Ask me about everything.
+##  🔭 I'm looking for my frist job of Software development FullStack.
+
+## :scroll: I'm learning:
+
+<img align="center" alt="ellen-Angular" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> <img align="center" alt="ellen-PHP" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+
 
 
 
@@ -29,7 +33,7 @@
   <img align="center" alt="ellen-Bootstrap" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="ellen-PHP" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">  
    
-  <img align="right" alt="ellen" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/9330f651ae1b4e586074ee62ea5a3f66.gif">
+  
   
 </div>
 
