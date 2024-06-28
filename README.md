@@ -4,6 +4,8 @@
 
 ##   Software Development FullStack.
 <br>
+<br>
+<br>
 
 ### 	:battery: My stats
 <div align="center">
