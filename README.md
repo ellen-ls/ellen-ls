@@ -2,17 +2,9 @@
 
 <img align="right" alt="ellen" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/9330f651ae1b4e586074ee62ea5a3f66.gif">
 
-##  🔭 I'm looking for my first job in Software Development FullStack.
+##   Software Development FullStack.
 <br>
 
-## :scroll: I'm learning:
-
-<img align="center" alt="ellen-Angular" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> <img align="center" alt="ellen-PHP" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
-<br>
-<br>
-
-##
 ### 	:battery: My stats
 <div align="center">
   <a href="https://github.com/ellen-ls">
