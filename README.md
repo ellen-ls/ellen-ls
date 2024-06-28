@@ -2,7 +2,7 @@
 
 
 
-##   Software Development FullStack. <img align="right" alt="ellen" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/9330f651ae1b4e586074ee62ea5a3f66.gif">
+<img align="right" alt="ellen" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/9330f651ae1b4e586074ee62ea5a3f66.gif">
 <br>
 <br>
 <br>
@@ -37,9 +37,13 @@
 
   
   ##
-  ### :calling: Contact me
+ 
   <div align="center"> <br>
-  
+    
+   ### :calling: Contact me 
+   
+   <br>
+   
    <a href = "mailto:ellen.l.s1996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ellen-lima-e-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href= "https://wa.me/5585999734398" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
